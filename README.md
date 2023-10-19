@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <h2>Imagens do projeto</h2>
-<h3>Moblie</h3><img src="https://github.com/047juniorr/projeto-responsividade/blob/main/img/Mobile.png">
-<h3>Windows</h3><img src"https://github.com/047juniorr/projeto-responsividade/blob/main/img/Windows.png">
+<h3>Mobile</h3><img src="https://github.com/047juniorr/projeto-responsividade/blob/main/img/Mobile.png">
+<h3>Windows</h3><img src="https://github.com/047juniorr/projeto-responsividade/blob/main/img/Windows.png">
